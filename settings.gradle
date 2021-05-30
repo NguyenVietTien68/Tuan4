@@ -1,0 +1,2 @@
+rootProject.name = "Tuan4"
+include ':app'
